@@ -4,7 +4,7 @@ A small set of Ruby scripts written to work with the [aviglitch](https://github.
 
 **USAGE**
 
-In order to run these scripts, you'll need the aviglitch Rubygem installed. You can download a fork from my GitHub [here](https://github.com/LambdaCalculus37/aviglitch), then run:
+In order to run these scripts, you'll need the aviglitch Rubygem installed. You can download a fork from my GitHub [here](https://github.com/LambdaCalculus37/aviglitch) and compile it by running in its directory:
 
 > gem install aviglitch
 
