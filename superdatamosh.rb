@@ -10,4 +10,4 @@ a.glitch_with_index(:keyframe) do |data, i|
   x[14..26] = "%013b" % ((h > 50) ? h : 50)
   (i == 0) ? data : data[0..24] + [x].pack('B*') + data[29..data.size]
 end
-a.output 'out.avi'
+a.output 'output.avi'
