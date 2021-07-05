@@ -5,4 +5,4 @@ a = AviGlitch.open 'file.avi'
 a.glitch :keyframe do |f|   
   nil                       
 end                         
-a.output 'output.avi'
+a.output 'output-smol.avi'

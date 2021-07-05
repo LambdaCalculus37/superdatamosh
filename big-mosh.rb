@@ -12,4 +12,4 @@ q = a.frames[0, 5]                  # Keep first key frame.
   q.concat(x * rand(50))            # Repeat the frame n times and concatenate with q.
 end
 o = AviGlitch.open q                # New AviGlitch instance using the frames.
-o.output 'output.avi'
+o.output 'output-big.avi'

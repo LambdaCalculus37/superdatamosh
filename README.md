@@ -30,6 +30,6 @@ Afterwards, you can use ffmpeg to do the same in reverse in order to get a web-r
 
 **TO DO**
 
-1. Try and take file I/O params when you run the scripts; right now it's hardcoded to take a file named 'file.avi' and output 'output.avi'.
+1. Try and take file I/O params when you run the scripts; right now the scripts are hardcoded to take a file named 'file.avi' and output 'output-smol.avi', 'output-big.avi', and 'output-super.avi', respectively.
 
 2. Anything else?
